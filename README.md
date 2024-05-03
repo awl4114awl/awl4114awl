@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jordan! <br/><a href="https://github.com/joshmadakor1">Tech Support Specialist</a>, <a href="https://www.linkedin.com/in/awl4114awl/">Cybersecurity student</a>, <a href="https://www.youtube.com/c/joshmadakor">avid programmer</a></h1>
 
-<h2>👨‍💻 General IT & Cybersecurity Projects:</h2>
+<h2>👨‍💻 General IT & Cybersecurity Projects:</h2> 
 
 - <b>Active Directory Home Lab</b>
   - [Active Directory HomeLab]()
