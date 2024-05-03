@@ -11,6 +11,10 @@
 - <b>Python Projects</b>
   - [Python Anywhere - random code](https://www.pythonanywhere.com/user/awl4114awl/files/home/awl4114awl)
 
+- <b>Cybersecurity CTF Lab</b>
+  - [NCL Spring 2024 Individual Game Scouting Report & Certificate](https://cyberskyline.com/report/TRXAV7WRQGFH)
+  - [NCL Spring 2024 Team Game Scouting Report & Certificate](https://cyberskyline.com/report/EEB7XAEEFB9F)
+
 <h2>📺 Popular YouTube Videos</h2>
 
 
