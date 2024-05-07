@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 General IT & Cybersecurity Projects:</h2> 
 
-- <b>Active Directory Home Lab</b>
-  - [Active Directory HomeLab]()
+- <b>TryHackMe Labs</b>
+  - [Kenobi](https://github.com/awl4114awl/Kenobi---TryHackMe-Lab)
 
 - <b>Digital Forensics Labs</b>
   - [Lab 1: Applying the Daubert Standard to Forensic Evidence]()
