@@ -9,8 +9,8 @@
   - [NCL Individual & Team Game results](https://github.com/awl4114awl/National-Cyber-League-score-cards)
 
 
-- <b>NICE Challenge results</b>
-  - [Python Anywhere - random code](https://www.pythonanywhere.com/user/awl4114awl/files/home/awl4114awl)
+- <b>NICE Challenge</b>
+  - [NICE Challenge project results](https://github.com/awl4114awl/NICE-Challenge-Projects)
 
 
 
