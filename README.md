@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jordan! <br/><a href="https://www.linkedin.com/awl4114awl">Tech Support Specialist</a>, <a href="https://www.linkedin.com/awl4114awl">Cybersecurity student</a>, <a href="https://replit.com/@awl4114awl">avid programmer</a></h1>
+<h1>Hi, I'm Jordan! <br/><a href="https://www.linkedin.com/in/awl4114awl/">Tech Support Specialist</a>, <a href="https://www.linkedin.com/in/awl4114awl/">Cybersecurity student</a>, <a href="https://replit.com/@awl4114awl">avid programmer</a></h1>
 
 <h2>👨‍💻 General IT & Cybersecurity Projects:</h2> 
 
