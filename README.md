@@ -5,9 +5,8 @@
 - <b>Digital Forensics Write-ups</b>
   - [Jones & Bartlett Learning](https://github.com/awl4114awl/Jones-Bartlett-Learning)
 
-- <b>NCL CTF scores</b>
-  - [NCL Individual Game results](C:/Users/jk8329/Downloads/Applying_the_Daubert_Standard_to_Forensic_Evidence_4e_-_Jordan_Calvert.html)
-  - [NCL Team Game results](C:/Users/jk8329/Downloads/Applying_the_Daubert_Standard_to_Forensic_Evidence_4e_-_Jordan_Calvert.html)
+- <b>National Cyber League CTF scores & certificates</b>
+  - [NCL Individual & Team Game results](https://github.com/awl4114awl/National-Cyber-League-score-cards)
 
 
 - <b>NICE Challenge results</b>
