@@ -1,9 +1,4 @@
 <h1>Hi, I'm Jordan! <br/><a href="https://www.linkedin.com/in/awl4114awl/">Tech Support Specialist</a>, <a href="https://www.linkedin.com/in/awl4114awl/">Cybersecurity student</a>, <a href="https://replit.com/@awl4114awl">avid programmer</a></h1>
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
-
-## Objective
-
 Results-driven Tech Support Specialist with a proven track record in diagnosing and resolving diverse technical issues.
 
 <h2>General IT & Cybersecurity Projects</h2> 
