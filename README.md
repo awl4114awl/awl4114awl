@@ -6,7 +6,7 @@
   - [Kenobi](https://github.com/awl4114awl/Kenobi---TryHackMe-Lab)
 
 - <b>Digital Forensics Labs</b>
-  - [Lab 1: Applying the Daubert Standard to Forensic Evidence](file:///C:/Users/jk8329/Downloads/Applying_the_Daubert_Standard_to_Forensic_Evidence_4e_-_Jordan_Calvert.html)
+  - [Lab 1: Applying the Daubert Standard to Forensic Evidence](C:/Users/jk8329/Downloads/Applying_the_Daubert_Standard_to_Forensic_Evidence_4e_-_Jordan_Calvert.html)
 
 - <b>Python Projects</b>
   - [Python Anywhere - random code](https://www.pythonanywhere.com/user/awl4114awl/files/home/awl4114awl)
