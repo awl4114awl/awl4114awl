@@ -2,18 +2,18 @@
 
 <h2>👨‍💻 General IT & Cybersecurity Projects:</h2> 
 
-- <b>TryHackMe Labs</b>
-  - [Kenobi](https://github.com/awl4114awl/Kenobi---TryHackMe-Lab)
+- <b>Digital Forensics Write-ups</b>
+  - [Applying the Daubert Standard to Forensic Evidence](https://drive.google.com/file/d/1ZyT1xcRCg7OmG8_EGlVPvfJpAPJVwCXU/view?usp=sharing)
 
-- <b>Digital Forensics Labs</b>
-  - [Lab 1: Applying the Daubert Standard to Forensic Evidence](C:/Users/jk8329/Downloads/Applying_the_Daubert_Standard_to_Forensic_Evidence_4e_-_Jordan_Calvert.html)
+- <b>NCL CTF scores</b>
+  - [NCL Individual Game results](C:/Users/jk8329/Downloads/Applying_the_Daubert_Standard_to_Forensic_Evidence_4e_-_Jordan_Calvert.html)
+  - [NCL Team Game results](C:/Users/jk8329/Downloads/Applying_the_Daubert_Standard_to_Forensic_Evidence_4e_-_Jordan_Calvert.html)
 
-- <b>Python Projects</b>
+
+- <b>NICE Challenge results</b>
   - [Python Anywhere - random code](https://www.pythonanywhere.com/user/awl4114awl/files/home/awl4114awl)
 
-- <b>Cybersecurity CTF Lab</b>
-  - [NCL Spring 2024 Individual Game Scouting Report & Certificate](https://cyberskyline.com/report/TRXAV7WRQGFH)
-  - [NCL Spring 2024 Team Game Scouting Report & Certificate](https://cyberskyline.com/report/EEB7XAEEFB9F)
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
