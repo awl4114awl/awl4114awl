@@ -3,7 +3,7 @@
 <h2>👨‍💻 General IT & Cybersecurity Projects:</h2> 
 
 - <b>Digital Forensics Write-ups</b>
-  - [Applying the Daubert Standard to Forensic Evidence](https://drive.google.com/file/d/1ZyT1xcRCg7OmG8_EGlVPvfJpAPJVwCXU/view?usp=sharing)
+  - [Jones & Bartlett Learning](https://github.com/awl4114awl/Jones-Bartlett-Learning)
 
 - <b>NCL CTF scores</b>
   - [NCL Individual Game results](C:/Users/jk8329/Downloads/Applying_the_Daubert_Standard_to_Forensic_Evidence_4e_-_Jordan_Calvert.html)
