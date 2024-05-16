@@ -14,3 +14,5 @@ Results-driven Tech Support Specialist with a proven track record in diagnosing 
 
 - <b>.py files</b>
   - [Python 3 coding projects](https://github.com/awl4114awl/.pyfiles)
+
+ <script src="https://tryhackme.com/badge/2229251"></script>
