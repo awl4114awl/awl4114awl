@@ -11,9 +11,12 @@ Results-driven Tech Support Specialist with a proven track record in diagnosing 
 
 - <b>NICE Challenge</b>
   - [NICE Challenge project results](https://github.com/awl4114awl/NICE-Challenge-Projects)
-
+    
+- <b>Azure Sentinel Lab</b>
+  - [Azure Sentinel Tutorial Map](https://github.com/awl4114awl/Azure-Sentinel-Tutorial-Map)
+    
+<h2>Coding Projects</h2> 
 - <b>.py files</b>
   - [Python 3 coding projects](https://github.com/awl4114awl/.pyfiles)
  
-- <b>Azure Sentinel Lab</b>
-  - [Azure Sentinel Tutorial Map](https://github.com/awl4114awl/Azure-Sentinel-Tutorial-Map)
+
