@@ -16,7 +16,7 @@ Results-driven Tech Support Specialist with a proven track record in diagnosing 
   - [Azure Sentinel Tutorial Map](https://github.com/awl4114awl/Azure-Sentinel-Tutorial-Map)
     
 <h2>Coding Projects</h2> 
+
 - <b>.py files</b>
   - [Python 3 coding projects](https://github.com/awl4114awl/.pyfiles)
- 
 
