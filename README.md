@@ -4,7 +4,7 @@ Results-driven Tech Support Specialist with a proven track record in diagnosing 
 <h2>General IT & Cybersecurity Projects</h2> 
 
 - <b>Digital Forensics Write-ups</b>
-  - [Jones & Bartlett Learning](https://github.com/awl4114awl/Jones-Bartlett-Learning)
+  - [Applying the Daubert Standard to Forensic Evidence](https://github.com/awl4114awl/Jones-Bartlett-Learning)
 
 - <b>National Cyber League CTF scores & certificates</b>
   - [NCL Individual & Team Game results](https://github.com/awl4114awl/National-Cyber-League-score-cards)
