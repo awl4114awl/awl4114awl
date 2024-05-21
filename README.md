@@ -21,3 +21,4 @@ Results-driven Tech Support Specialist with a proven track record in diagnosing 
   - [Python 3 coding projects](https://github.com/awl4114awl/.pyfiles)
 
 <h2>Tutorials</h2> 
+  - [install kali 2024.1 using vbox](https://github.com/awl4114awl/install-kali-2024.1)
