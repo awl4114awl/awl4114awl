@@ -5,6 +5,7 @@ Results-driven Tech Support Specialist with a proven track record in diagnosing 
 
 - <b>Digital Forensics Write-ups</b>
   - [Applying the Daubert Standard to Forensic Evidence](https://github.com/awl4114awl/Jones-Bartlett-Learning)
+  - [Recognizing the Use of Steganography in Forensic Evidence](https://github.com/awl4114awl/Recognizing_the_Use_of_Steganography_in_Forensic_Evidence_4e)
 
 - <b>National Cyber League CTF scores & certificates</b>
   - [NCL Individual & Team Game results](https://github.com/awl4114awl/National-Cyber-League-score-cards)
