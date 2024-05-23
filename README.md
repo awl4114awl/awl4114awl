@@ -6,15 +6,15 @@ Results-driven Tech Support Specialist with a proven track record in diagnosing 
 - <b>Digital Forensics Write-ups</b>
   - [Applying the Daubert Standard to Forensic Evidence](https://github.com/awl4114awl/Jones-Bartlett-Learning)
   - [Recognizing the Use of Steganography in Forensic Evidence](https://github.com/awl4114awl/Recognizing_the_Use_of_Steganography_in_Forensic_Evidence_4e)
-  - [Networking-Anomalies_The-Packet-Capture-Edition](https://github.com/awl4114awl/Networking-Anomalies_The-Packet-Capture-Edition)
-
+  
 - <b>National Cyber League CTF scores & certificates</b>
   - [NCL Individual & Team Game results](https://github.com/awl4114awl/National-Cyber-League-score-cards)
 
 - <b>NICE Challenge</b>
   - [Pentration Testing Bringing Passwords Up To Snuff](https://github.com/awl4114awl/Secure-Domain-Accounts-and-Passwords-Probably-Worth)
   - [Secure Domain Accounts & Passwords Probably Worth](https://github.com/awl4114awl/Pentration-Testing-Bringing-Passwords-Up-To-Snuff)
-    
+  - [Networking-Anomalies_The-Packet-Capture-Edition](https://github.com/awl4114awl/Networking-Anomalies_The-Packet-Capture-Edition)
+
 - <b>Azure Sentinel Lab</b>
   - [Azure Sentinel Tutorial Map](https://github.com/awl4114awl/Azure-Sentinel-Tutorial-Map)
     
