@@ -8,7 +8,8 @@ Results-driven Tech Support Specialist with a proven track record in diagnosing 
   - [Recognizing the Use of Steganography in Forensic Evidence](https://github.com/awl4114awl/Recognizing_the_Use_of_Steganography_in_Forensic_Evidence_4e)
   
 - <b>National Cyber League CTF scores & certificates</b>
-  - [NCL Individual & Team Game results](https://github.com/awl4114awl/National-Cyber-League-score-cards)
+  - [NCL Individual Game results](https://github.com/awl4114awl/NCL-INDIVIDUAL-GAME-SCORE-CARD-AND-CERT)
+  - [NCL Team Game results](https://github.com/awl4114awl/NCL-TEAM-GAME-SCORE-CARD-AND-CERT)
 
 - <b>NICE Challenge</b>
   - [Pentration Testing Bringing Passwords Up To Snuff](https://github.com/awl4114awl/Secure-Domain-Accounts-and-Passwords-Probably-Worth)
