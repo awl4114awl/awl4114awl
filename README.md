@@ -11,7 +11,8 @@ Results-driven Tech Support Specialist with a proven track record in diagnosing 
   - [NCL Individual & Team Game results](https://github.com/awl4114awl/National-Cyber-League-score-cards)
 
 - <b>NICE Challenge</b>
-  - [NICE Challenge project results](https://github.com/awl4114awl/NICE-Challenge-Projects)
+  - [Pentration Testing Bringing Passwords Up To Snuff](https://github.com/awl4114awl/Secure-Domain-Accounts-and-Passwords-Probably-Worth)
+  - [Secure Domain Accounts & Passwords Probably Worth](https://github.com/awl4114awl/Pentration-Testing-Bringing-Passwords-Up-To-Snuff)
     
 - <b>Azure Sentinel Lab</b>
   - [Azure Sentinel Tutorial Map](https://github.com/awl4114awl/Azure-Sentinel-Tutorial-Map)
