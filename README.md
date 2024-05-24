@@ -58,7 +58,7 @@ Results-driven Tech Support Specialist with a proven track record in diagnosing 
 
 | Metasploit | Wireshark | Burpsuite | Netcat | Nmap |
 |----------|----------|----------|----------|----------|
-|<p align="center"><img src="https://img.icons8.com/?size=48&id=PW0ChfedZvTh&format=png" alt="msf" width="55" height="55" />|<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" alt="wireshark" width="55" height="55" />|<p align="center"><img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/burp_suite_macos_bigsur_icon_190319.png" alt="burp" width="55" height="55" />|<p align="center"><img src="https://iconape.com/wp-content/files/ca/349184/png/349184.png" alt="netcat" width="55" height="55" />|<p align="center"><img src="https://nmap.org/images/sitelogo-nmap.svg" alt="nmap" width="55" height="55" />|
+|<p align="center"><img src="https://asset.brandfetch.io/idFlREP4Jj/idsR5UInMm.png?updated=1712244345166" alt="msf" width="55" height="55" />|<p align="center"><img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" alt="wireshark" width="55" height="55" />|<p align="center"><img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="burp" width="55" height="55" />|<p align="center"><img src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" alt="netcat" width="55" height="55" />|<p align="center"><img src="https://nmap.org/images/sitelogo-nmap.svg" alt="nmap" width="55" height="55" />|
 
 ## Resume
 <img src="https://i.imgur.com/lSYgQOi.png" height="60%" width="60%" alt="README"/>
