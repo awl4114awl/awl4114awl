@@ -60,6 +60,4 @@ Results-driven Tech Support Specialist with a proven track record in diagnosing 
 |----------|----------|----------|----------|----------|
 |<p align="center"><img src="https://asset.brandfetch.io/idFlREP4Jj/idsR5UInMm.png?updated=1712244345166" alt="msf" width="55" height="55" />|<p align="center"><img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" alt="wireshark" width="55" height="55" />|<p align="center"><img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="burp" width="55" height="55" />|<p align="center"><img src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" alt="netcat" width="55" height="55" />|<p align="center"><img src="https://nmap.org/images/sitelogo-nmap.svg" alt="nmap" width="55" height="55" />|
 
-## Resume
-<img src="https://i.imgur.com/lSYgQOi.png" height="60%" width="60%" alt="README"/>
 <!--
