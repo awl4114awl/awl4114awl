@@ -24,6 +24,9 @@ Results-driven Tech Support Specialist with a proven track record in diagnosing 
 - <b>.py files</b>
   - [Python 3 coding projects](https://github.com/awl4114awl/.pyfiles)
 
+- <b>sql</b>
+  - [mysql -- 50 countries](https://github.com/awl4114awl/mysql---50-countries/tree/main)
+
 <h2>Tutorials</h2> 
 
 - <b>kali 2024.1</b>
