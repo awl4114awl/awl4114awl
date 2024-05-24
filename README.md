@@ -33,4 +33,4 @@ Results-driven Tech Support Specialist with a proven track record in diagnosing 
   - [install kali 2024.1 using vbox](https://github.com/awl4114awl/install-kali-2024.1)
   
 ## Resume
-<img src="https://i.imgur.com/lSYgQOi.png" height="80%" width="80%" alt="README"/>
+<img src="https://i.imgur.com/lSYgQOi.png" height="70%" width="70%" alt="README"/>
