@@ -61,5 +61,52 @@ Results-driven Tech Support Specialist with a proven track record in diagnosing 
 |<p align="center"><img src="https://asset.brandfetch.io/idFlREP4Jj/idsR5UInMm.png?updated=1712244345166" alt="msf" width="55" height="55" />|<p align="center"><img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" alt="wireshark" width="55" height="55" />|<p align="center"><img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="burp" width="55" height="55" />|<p align="center"><img src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" alt="netcat" width="55" height="55" />|<p align="center"><img src="https://nmap.org/images/sitelogo-nmap.svg" alt="nmap" width="55" height="55" />|
 
 ## Resume
+# Jordan Calvert
+
+- **Phone**: 760-458-2167
+- **Email**: jordanryancalvert@gmail.com
+- **GitHub**: [github.com/awl4114awl](https://github.com/awl4114awl)
+- **LinkedIn**: [linkedin.com/in/awl4114awl](https://linkedin.com/in/awl4114awl)
+
+## Education
+
+- **Associate’s of Science: Cybersecurity** - Palomar College, 2024
+
+## Certifications
+
+- **CompTIA A+** (In progress, expected 08/24)
+- **CompTIA Security+** (In progress, expected 07/24)
+
+## Projects
+
+- **Microsoft Azure Sentinel Map with Live Cyber Attacks**
+  - **Source**: [github.com/awl4114awl/Azure-Sentinel-Tutorial-Map](https://github.com/awl4114awl/Azure-Sentinel-Tutorial-Map)
+  - **Platforms and Technology Used**: Azure Virtual Machines, Event Viewer
+
+- **Python 3 random code/projects**
+  - **Source**: [github.com/awl4114awl/.pyfiles](https://github.com/awl4114awl/.pyfiles)
+  - **Platforms and Technology Used**: Python3
+
+- **NICE Challenge Project Assignments/Projects**
+  - **Source**: [github.com/awl4114awl/NICE-Challenge-Projects](https://github.com/awl4114awl/NICE-Challenge-Projects)
+  - **Platforms and Technology Used**: WireShark, Metasploit, Active Directory, etc.
+
+## Experience
+
+- **Mitchell 1**, Jan 2023 - Oct 2023
+  - **Title**: TIER 1 Tech Support Agent
+  - Provided technical support to end users, resolving 25-40 tickets daily with a 95% satisfaction rate.
+  - Assisted in troubleshooting and resolving software issues related to the Manager SE software.
+  - Documented support interactions and contributed to the knowledge base, improving resolution time by 30%.
+
+- **Mitchell 1**, Nov 2024 - Current
+  - **Title**: Tech Support Specialist
+  - Leading support initiatives, managing a team of 3 tech support agents to achieve a 97% resolution rate.
+  - Implemented new troubleshooting protocols, reducing average resolution time by 15%.
+  - Developed and delivered training sessions for new customers who purchased Manager Enterprise Pro software.
+
+## Skills and Technologies
+
+- Microsoft Office Suite, Help Desk, Ticketing System, Azure, Network Security Groups, Firewalls, ACLs (Access Control Lists), Virtual Machines, Virtual Networks, Cloud Computing, Active Directory, File Permissions, Windows 10
 <img src="https://i.imgur.com/lSYgQOi.png" height="60%" width="60%" alt="README"/>
 <!--
