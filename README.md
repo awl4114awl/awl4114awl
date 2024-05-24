@@ -21,16 +21,13 @@ Results-driven Tech Support Specialist with a proven track record in diagnosing 
     
 <h2>Coding Projects</h2> 
 
-- <b>.py files</b>
-  - [Python 3 coding projects](https://github.com/awl4114awl/.pyfiles)
+- [Python 3](https://github.com/awl4114awl/.pyfiles)
 
-- <b>sql</b>
-  - [mysql -- 50 countries](https://github.com/awl4114awl/mysql---50-countries/tree/main)
+- [mysql -- 50 countries](https://github.com/awl4114awl/mysql---50-countries/tree/main)
 
 <h2>Tutorials</h2> 
 
-- <b>kali 2024.1</b>
-  - [install kali 2024.1 using vbox](https://github.com/awl4114awl/install-kali-2024.1)
+- [install kali 2024.1 using vbox](https://github.com/awl4114awl/install-kali-2024.1)
   
 ## Resume
-<img src="https://i.imgur.com/lSYgQOi.png" height="70%" width="70%" alt="README"/>
+<img src="https://i.imgur.com/lSYgQOi.png" height="60%" width="60%" alt="README"/>
