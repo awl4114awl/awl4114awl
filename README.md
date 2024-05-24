@@ -29,7 +29,7 @@ Results-driven Tech Support Specialist with a proven track record in diagnosing 
 
 - [install kali 2024.1 using vbox](https://github.com/awl4114awl/install-kali-2024.1)
 
-## Languages and Tools 
+## things i know how to use  
 <div>
 
 ### Languages:
@@ -42,9 +42,9 @@ Results-driven Tech Support Specialist with a proven track record in diagnosing 
   
 ### Environments, Testing, Other:
 
-| Git | Docker | Pytest | Virtual Box|
-|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="80" height="55"/>|
+| Git | Docker | Pytest | Virtual Box | Azure |
+|----------|----------|----------|----------|---------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="80" height="55"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/azure/azure-original-wordmark.svg" title="Oracle" alt="Oracle" width="80" height="55"/>| 
 
 
 ### OS: 
