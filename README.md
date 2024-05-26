@@ -1,5 +1,8 @@
 <h1>Hi, I'm Jordan! <br/><a href="https://www.linkedin.com/in/awl4114awl/">Tech Support Specialist</a>, <a href="https://tryhackme.com/p/awl4114awl">Cybersecurity student</a>, <a href="https://replit.com/@awl4114awl">avid programmer</a></h1>
 Results-driven Tech Support Specialist with a proven track record in diagnosing and resolving diverse technical issues. Currently pursuing my Bachelor's degree in Cybersecurity.
+<br />
+<br />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=awl4114awl&label=Profile%20views&color=0e75b6&style=flat" alt="awl4114awl" /> </p>
 
 <h2>General IT & Cybersecurity Projects</h2> 
 
