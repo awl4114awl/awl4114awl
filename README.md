@@ -25,13 +25,13 @@ Results-driven Tech Support Specialist with a proven track record in diagnosing 
 <h2>Coding Projects</h2> 
 
 - [Python 3](https://github.com/awl4114awl/.pyfiles)
-
 - [mysql -- 50 countries](https://github.com/awl4114awl/mysql---50-countries/tree/main)
 
 <h2>Tutorials</h2> 
 
 - [install kali 2024.1 using vbox](https://github.com/awl4114awl/install-kali-2024.1)
-
+- [install ubuntu 24.04 using vbox](https://github.com/awl4114awl/install-ubuntu-24.04)
+  
 ## things i know how to use  
 <div>
 
