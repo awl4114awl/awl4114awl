@@ -9,7 +9,12 @@ Results-driven Tech Support Specialist with a proven track record in diagnosing 
 - <b>Digital Forensics Write-ups</b>
   - [Applying the Daubert Standard to Forensic Evidence](https://github.com/awl4114awl/Jones-Bartlett-Learning)
   - [Recognizing the Use of Steganography in Forensic Evidence](https://github.com/awl4114awl/Recognizing_the_Use_of_Steganography_in_Forensic_Evidence_4e)
-  
+  - [Recovering Deleted and Damaged Files](https://github.com/awl4114awl/Recovering-Deleted-and-Damaged-Files)
+  - [Conducting an Incident Response Investigation](https://github.com/awl4114awl/Conducting-an-Incident-Response-Investigation)
+  - [Conducting Forensic Investigations on Email and Chat Logs](https://github.com/awl4114awl/Conducting-Forensic-Investigations-on-Email-and-Chat-Logs)
+  - [Conducting Forensic Investigations on Mobile Devices](https://github.com/awl4114awl/Conducting-Forensic-Investigations-on-Mobile-Devices)
+  - [Conducting Forensic Investigations on Network Infrastructure](https://github.com/awl4114awl/Conducting-Forensic-Investigations-on-Network-Infrastructure)
+  - [Conducting Forensic Investigations on System Memory](https://github.com/awl4114awl/Conducting-Forensic-Investigations-on-System-Memory)
 - <b>National Cyber League CTF scores & certificates</b>
   - [NCL Individual Game results](https://github.com/awl4114awl/NCL-INDIVIDUAL-GAME-SCORE-CARD-AND-CERT)
   - [NCL Team Game results](https://github.com/awl4114awl/NCL-TEAM-GAME-SCORE-CARD-AND-CERT)
