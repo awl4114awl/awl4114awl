@@ -28,6 +28,7 @@ Results-driven Tech Support Specialist with a proven track record in diagnosing 
   - [Azure Sentinel Tutorial Map](https://github.com/awl4114awl/Azure-Sentinel-Tutorial-Map)
     
 <h2>Coding Projects</h2> 
+
 - [mysql -- 50 countries](https://github.com/awl4114awl/mysql---50-countries/tree/main)
 
 <h2>Tutorials</h2> 
