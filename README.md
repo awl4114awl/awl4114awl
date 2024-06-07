@@ -7,54 +7,41 @@ Results-driven Tech Support Specialist with a proven track record in diagnosing 
 <h2>General IT & Cybersecurity Projects</h2> 
 
 - <b>Digital Forensics Write-ups</b>
-  - [Applying the Daubert Standard to Forensic Evidence](https://github.com/awl4114awl/Jones-Bartlett-Learning)
-  - [Recognizing the Use of Steganography in Forensic Evidence](https://github.com/awl4114awl/Recognizing_the_Use_of_Steganography_in_Forensic_Evidence_4e)
-  - [Recovering Deleted and Damaged Files](https://github.com/awl4114awl/Recovering-Deleted-and-Damaged-Files)
-  - [Conducting an Incident Response Investigation](https://github.com/awl4114awl/Conducting-an-Incident-Response-Investigation)
-  - [Conducting Forensic Investigations on Email and Chat Logs](https://github.com/awl4114awl/Conducting-Forensic-Investigations-on-Email-and-Chat-Logs)
-  - [Conducting Forensic Investigations on Mobile Devices](https://github.com/awl4114awl/Conducting-Forensic-Investigations-on-Mobile-Devices)
-  - [Conducting Forensic Investigations on Network Infrastructure](https://github.com/awl4114awl/Conducting-Forensic-Investigations-on-Network-Infrastructure)
-  - [Conducting Forensic Investigations on System Memory](https://github.com/awl4114awl/Conducting-Forensic-Investigations-on-System-Memory)
+  - ##### [Applying the Daubert Standard to Forensic Evidence](https://github.com/awl4114awl/Jones-Bartlett-Learning)
+  - ##### [Recognizing the Use of Steganography in Forensic Evidence](https://github.com/awl4114awl/Recognizing_the_Use_of_Steganography_in_Forensic_Evidence_4e)
+  - ##### [Recovering Deleted and Damaged Files](https://github.com/awl4114awl/Recovering-Deleted-and-Damaged-Files)
+  - ##### [Conducting an Incident Response Investigation](https://github.com/awl4114awl/Conducting-an-Incident-Response-Investigation)
+  - ##### [Conducting Forensic Investigations on Email and Chat Logs](https://github.com/awl4114awl/Conducting-Forensic-Investigations-on-Email-and-Chat-Logs)
+  - ##### [Conducting Forensic Investigations on Mobile Devices](https://github.com/awl4114awl/Conducting-Forensic-Investigations-on-Mobile-Devices)
+  - ##### [Conducting Forensic Investigations on Network Infrastructure](https://github.com/awl4114awl/Conducting-Forensic-Investigations-on-Network-Infrastructure)
+  - ##### [Conducting Forensic Investigations on System Memory](https://github.com/awl4114awl/Conducting-Forensic-Investigations-on-System-Memory)
 - <b>National Cyber League CTF scores & certificates</b>
-  - [NCL Individual Game results](https://github.com/awl4114awl/NCL-INDIVIDUAL-GAME-SCORE-CARD-AND-CERT)
-  - [NCL Team Game results](https://github.com/awl4114awl/NCL-TEAM-GAME-SCORE-CARD-AND-CERT)
+  - ##### [NCL Individual Game results](https://github.com/awl4114awl/NCL-INDIVIDUAL-GAME-SCORE-CARD-AND-CERT)
+  - ##### [NCL Team Game results](https://github.com/awl4114awl/NCL-TEAM-GAME-SCORE-CARD-AND-CERT)
 
 - <b>NICE Challenge</b>
-  - [Pentration Testing Bringing Passwords Up To Snuff](https://github.com/awl4114awl/Secure-Domain-Accounts-and-Passwords-Probably-Worth)
-  - [Secure Domain Accounts & Passwords Probably Worth](https://github.com/awl4114awl/Pentration-Testing-Bringing-Passwords-Up-To-Snuff)
-  - [Networking-Anomalies_The-Packet-Capture-Edition](https://github.com/awl4114awl/Networking-Anomalies_The-Packet-Capture-Edition)
+  - ##### [Pentration Testing Bringing Passwords Up To Snuff](https://github.com/awl4114awl/Secure-Domain-Accounts-and-Passwords-Probably-Worth)
+  - ##### [Secure Domain Accounts & Passwords Probably Worth](https://github.com/awl4114awl/Pentration-Testing-Bringing-Passwords-Up-To-Snuff)
+  - ##### [Networking-Anomalies_The-Packet-Capture-Edition](https://github.com/awl4114awl/Networking-Anomalies_The-Packet-Capture-Edition)
 
 - <b>Azure Sentinel Lab</b>
-  - [Azure Sentinel Tutorial Map](https://github.com/awl4114awl/Azure-Sentinel-Tutorial-Map)
+  - ##### [Azure Sentinel Tutorial Map](https://github.com/awl4114awl/Azure-Sentinel-Tutorial-Map)
     
 <h2>Coding Projects</h2> 
 
-- [mysql -- 50 countries](https://github.com/awl4114awl/mysql---50-countries/tree/main)
-- [how to dress today](https://github.com/awl4114awl/how-to-dress-today)
+  - ##### [fifty countries](https://github.com/awl4114awl/mysql---50-countries/tree/main)
+  - ##### [how to dress today](https://github.com/awl4114awl/how-to-dress-today)
 
 <h2>Tutorials</h2> 
 
-- [install kali 2024.1 using vbox](https://github.com/awl4114awl/install-kali-2024.1)
-- [install ubuntu 24.04 using vbox](https://github.com/awl4114awl/install-ubuntu-24.04)
+  - ##### [install kali 2024.1 using vbox](https://github.com/awl4114awl/install-kali-2024.1)
+  - ##### [install ubuntu 24.04 using vbox](https://github.com/awl4114awl/install-ubuntu-24.04)
 
-### Languages:
-| Python3 | MySQL | SQLite |
-|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|
-  
-### Environments, Testing, Other:
+<h2>Tools</h2>
 
-| Virtual Box | Azure |
-|----------|---------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="80" height="55"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/azure/azure-original-wordmark.svg" title="Oracle" alt="Oracle" width="80" height="55"/>| 
-
-### OS: 
-
-| Windows | Linux | Ubuntu | Kali |
-|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original-wordmark.svg" title="Windows" alt="Windows" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> |
-
-### cybersecurity tools
+| Python3 | MySQL | SQLite | Virtual Box | Azure | Windows | Linux | Ubuntu | Kali |
+|----------|----------|----------|----------|---------|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="80" height="55"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/azure/azure-original-wordmark.svg" title="Oracle" alt="Oracle" width="80" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original-wordmark.svg" title="Windows" alt="Windows" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> |
 
 | Metasploit | Wireshark | Burpsuite | Netcat | Nmap |
 |----------|----------|----------|----------|----------|
