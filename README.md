@@ -30,6 +30,7 @@ Results-driven Tech Support Specialist with a proven track record in diagnosing 
 <h2>Coding Projects</h2> 
 
 - [mysql -- 50 countries](https://github.com/awl4114awl/mysql---50-countries/tree/main)
+- [how to dress today](https://github.com/awl4114awl/how-to-dress-today)
 
 <h2>Tutorials</h2> 
 
