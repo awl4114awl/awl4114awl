@@ -23,9 +23,6 @@ Results-driven Tech Support Specialist with a proven track record in diagnosing 
   - ##### [Pentration Testing Bringing Passwords Up To Snuff](https://github.com/awl4114awl/Secure-Domain-Accounts-and-Passwords-Probably-Worth)
   - ##### [Secure Domain Accounts & Passwords Probably Worth](https://github.com/awl4114awl/Pentration-Testing-Bringing-Passwords-Up-To-Snuff)
   - ##### [Networking-Anomalies_The-Packet-Capture-Edition](https://github.com/awl4114awl/Networking-Anomalies_The-Packet-Capture-Edition)
-
-- <b>Azure Sentinel Lab</b>
-  - ##### [Azure Sentinel Tutorial Map](https://github.com/awl4114awl/Azure-Sentinel-Tutorial-Map)
     
 <h2>Coding Projects</h2> 
 
@@ -39,6 +36,7 @@ Results-driven Tech Support Specialist with a proven track record in diagnosing 
 
   - ##### [install kali 2024.1 using vbox](https://github.com/awl4114awl/install-kali-2024.1)
   - ##### [install ubuntu 24.04 using vbox](https://github.com/awl4114awl/install-ubuntu-24.04)
+  - ##### [Azure Sentinel Tutorial Map](https://github.com/awl4114awl/Azure-Sentinel-Tutorial-Map)
 
 <h2>Tools</h2>
 
