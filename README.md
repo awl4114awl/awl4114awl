@@ -35,7 +35,7 @@ Results-driven Tech Support Specialist with a proven track record in diagnosing 
 <h2>Tutorials</h2> 
 
   - ##### [install kali 2024.1 using vbox](https://github.com/awl4114awl/install-kali-2024.1)
-  - ##### [install ubuntu 24.04 using vbox](https://github.com/awl4114awl/install-ubuntu-24.04)
+  - ##### [How to Setup a Basic Home Lab Running Active Directory](https://github.com/awl4114awl/How-to-Setup-a-Basic-Home-Lab-Running-Active-Directory)
   - ##### [Azure Sentinel Tutorial Map](https://github.com/awl4114awl/Azure-Sentinel-Tutorial-Map)
 
 <h2>Tools</h2>
