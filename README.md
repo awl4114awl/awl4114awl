@@ -42,7 +42,6 @@ Results-driven Tech Support Specialist with a proven track record in diagnosing 
   - ##### [Pentration Testing Bringing Passwords Up To Snuff](https://github.com/awl4114awl/Secure-Domain-Accounts-and-Passwords-Probably-Worth)
   - ##### [Secure Domain Accounts & Passwords Probably Worth](https://github.com/awl4114awl/Pentration-Testing-Bringing-Passwords-Up-To-Snuff)
   - ##### [Networking-Anomalies_The-Packet-Capture-Edition](https://github.com/awl4114awl/Networking-Anomalies_The-Packet-Capture-Edition)
-<br />
 
 <h2>Tools</h2>
 
