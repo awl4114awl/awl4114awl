@@ -6,6 +6,20 @@ Results-driven Tech Support Specialist with a proven track record in diagnosing 
 
 <h2>General IT & Cybersecurity Projects</h2> 
 
+- <b>Tutorials</b> 
+  - ##### [install kali 2024.1 using vbox](https://github.com/awl4114awl/install-kali-2024.1)
+  - ##### [How to Setup a Basic Home Lab Running Active Directory](https://github.com/awl4114awl/How-to-Setup-a-Basic-Home-Lab-Running-Active-Directory)
+  - ##### [Azure Sentinel Tutorial Map](https://github.com/awl4114awl/Azure-Sentinel-Tutorial-Map)
+<br />
+
+- <b>Coding Projects</b> 
+  - ##### [Threaded Port Scanner](https://github.com/awl4114awl/Threaded-Port-Scanner)
+  - ##### [Python Password Cracker](https://github.com/awl4114awl/Python-Password-Cracker)
+  - ##### [Network Packet Sniffer](https://github.com/awl4114awl/Network-Packet-Sniffer)
+  - ##### [how to dress today](https://github.com/awl4114awl/how-to-dress-today)
+  - ##### [education level checker with aptitude test](https://github.com/awl4114awl/education-level-checker)
+<br />
+
 - <b>Digital Forensics Write-ups</b>
   - ##### [Applying the Daubert Standard to Forensic Evidence](https://github.com/awl4114awl/Jones-Bartlett-Learning)
   - ##### [Recognizing the Use of Steganography in Forensic Evidence](https://github.com/awl4114awl/Recognizing_the_Use_of_Steganography_in_Forensic_Evidence_4e)
@@ -15,28 +29,18 @@ Results-driven Tech Support Specialist with a proven track record in diagnosing 
   - ##### [Conducting Forensic Investigations on Mobile Devices](https://github.com/awl4114awl/Conducting-Forensic-Investigations-on-Mobile-Devices)
   - ##### [Conducting Forensic Investigations on Network Infrastructure](https://github.com/awl4114awl/Conducting-Forensic-Investigations-on-Network-Infrastructure)
   - ##### [Conducting Forensic Investigations on System Memory](https://github.com/awl4114awl/Conducting-Forensic-Investigations-on-System-Memory)
+<br />
+ 
 - <b>National Cyber League CTF scores & certificates</b>
   - ##### [NCL Individual Game results](https://github.com/awl4114awl/NCL-INDIVIDUAL-GAME-SCORE-CARD-AND-CERT)
   - ##### [NCL Team Game results](https://github.com/awl4114awl/NCL-TEAM-GAME-SCORE-CARD-AND-CERT)
+<br />
 
 - <b>NICE Challenge</b>
   - ##### [Pentration Testing Bringing Passwords Up To Snuff](https://github.com/awl4114awl/Secure-Domain-Accounts-and-Passwords-Probably-Worth)
   - ##### [Secure Domain Accounts & Passwords Probably Worth](https://github.com/awl4114awl/Pentration-Testing-Bringing-Passwords-Up-To-Snuff)
   - ##### [Networking-Anomalies_The-Packet-Capture-Edition](https://github.com/awl4114awl/Networking-Anomalies_The-Packet-Capture-Edition)
-    
-<h2>Coding Projects</h2> 
-
-  - ##### [Threaded Port Scanner](https://github.com/awl4114awl/Threaded-Port-Scanner)
-  - ##### [Python Password Cracker](https://github.com/awl4114awl/Python-Password-Cracker)
-  - ##### [Network Packet Sniffer](https://github.com/awl4114awl/Network-Packet-Sniffer)
-  - ##### [how to dress today](https://github.com/awl4114awl/how-to-dress-today)
-  - ##### [education level checker with aptitude test](https://github.com/awl4114awl/education-level-checker)
-
-<h2>Tutorials</h2> 
-
-  - ##### [install kali 2024.1 using vbox](https://github.com/awl4114awl/install-kali-2024.1)
-  - ##### [How to Setup a Basic Home Lab Running Active Directory](https://github.com/awl4114awl/How-to-Setup-a-Basic-Home-Lab-Running-Active-Directory)
-  - ##### [Azure Sentinel Tutorial Map](https://github.com/awl4114awl/Azure-Sentinel-Tutorial-Map)
+<br />
 
 <h2>Tools</h2>
 
