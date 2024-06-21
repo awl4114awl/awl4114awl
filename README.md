@@ -3,7 +3,7 @@ Results-driven Tech Support Specialist with a proven track record in diagnosing 
 <br />
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awl4114awl&label=Profile%20views&color=0e75b6&style=flat" alt="awl4114awl" /> </p>
-<img src="https://tryhackme-badges.s3.amazonaws.com/awl4114awl.png" height="30%" width="30%" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/awl4114awl.png" height="40%" width="40%" alt="TryHackMe">
 <h2>General IT & Cybersecurity Projects</h2> 
 
 - <b>Tutorials</b> 
