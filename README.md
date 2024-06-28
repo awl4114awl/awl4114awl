@@ -6,7 +6,7 @@ Results-driven Tech Support Specialist with a proven track record in diagnosing 
 
 <p align="left">
   <a href="https://discord.com/users/642624429225934858" target="_blank">
-    <img src="https://discord.c99.nl/widget/theme-1/642624429225934858.png" />
+    <img src="https://discord.c99.nl/widget/theme-5/642624429225934858.png" height="30%" width="30%" alt="install kali"/>
   </a>
 </p>
 
