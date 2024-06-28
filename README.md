@@ -4,9 +4,9 @@ Results-driven Tech Support Specialist with a proven track record in diagnosing 
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awl4114awl&label=Profile%20views&color=0e75b6&style=flat" alt="awl4114awl" /> </p>
 
-<p align="left">
+<p align="center">
   <a href="https://discord.com/users/642624429225934858" target="_blank">
-    <img src="https://discord.c99.nl/widget/theme-5/642624429225934858.png" height="50%" width="50%" alt="install kali"/>
+    <img src="https://discord.c99.nl/widget/theme-5/642624429225934858.png"/>
   </a>
 </p>
 
