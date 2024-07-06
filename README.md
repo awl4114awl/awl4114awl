@@ -15,8 +15,7 @@ Results-driven Tech Support Specialist with a proven track record in diagnosing 
 - <b>Tutorials</b> 
   - ##### [How to Setup a Basic Home Lab Running Active Directory](https://github.com/awl4114awl/How-to-Setup-a-Basic-Home-Lab-Running-Active-Directory)
   - ##### [Azure Sentinel Tutorial Map](https://github.com/awl4114awl/Azure-Sentinel-Tutorial-Map)
-  - ##### [Install Kali 2024.1 using Oracle VM VirtualBox](https://github.com/awl4114awl/install-kali-2024.1)
-  - ##### [Install Ubuntu 24.04 using Oracle VM VirtualBox](https://github.com/awl4114awl/install-ubuntu-24.04)
+
 <br />
 
 - <b>Coding Projects</b> 
