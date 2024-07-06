@@ -22,9 +22,7 @@ Results-driven Tech Support Specialist with a proven track record in diagnosing 
   - ##### [Threaded Port Scanner](https://github.com/awl4114awl/Threaded-Port-Scanner)
   - ##### [Python Password Cracker](https://github.com/awl4114awl/Python-Password-Cracker)
   - ##### [Network Packet Sniffer](https://github.com/awl4114awl/Network-Packet-Sniffer)
-  - ##### [How to Dress Today](https://github.com/awl4114awl/how-to-dress-today)
-  - ##### [Education Level Checker with Aptitude Test](https://github.com/awl4114awl/education-level-checker)
-  - ##### [The Race Game](https://github.com/awl4114awl/The-Race-Game)
+
 <br />
 
 - <b>Digital Forensics Write-ups</b>
