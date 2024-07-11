@@ -10,7 +10,7 @@ Results-driven Tech Support Specialist with a proven track record in diagnosing 
   </a>
 </p>
 
-<h2>General IT & Cybersecurity Projects</h2> 
+<h2>General IT & Cybersecurity</h2> 
 
 - <b>Tutorials</b> 
   - ##### [How to Setup a Basic Home Lab Running Active Directory](https://github.com/awl4114awl/How-to-Setup-a-Basic-Home-Lab-Running-Active-Directory)
