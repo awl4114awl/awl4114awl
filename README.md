@@ -46,4 +46,28 @@ Results-driven Tech Support Specialist with a proven track record in diagnosing 
 |----------|----------|----------|----------|----------|----------|---------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
 | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" alt="Java" width="75" height="75"/> | <p align="center"><img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="80" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/azure/azure-original-wordmark.svg" title="Oracle" alt="Oracle" width="80" height="55"/> | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original-wordmark.svg" title="Windows" alt="Windows" width="55" height="55"/> | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" width="55" height="55"/> | <p align="center"><img src="https://asset.brandfetch.io/idFlREP4Jj/idsR5UInMm.png?updated=1712244345166" alt="msf" width="55" height="55" /> | <p align="center"><img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" alt="wireshark" width="55" height="55" /> | <p align="center"><img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="burp" width="55" height="55" />|<p align="center"><img src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" alt="netcat" width="55" height="55" /> | <p align="center"><img src="https://nmap.org/images/sitelogo-nmap.svg" alt="nmap" width="55" height="55" /> |
 
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣶⣾⣿⣷⣾⣿⣿⣿⣿⣶⣾⣿⣿⣶⣦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠛⠉⢉⡽⢋⣙⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢰⣿⣦⣀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣛⣛⣓⣒⠶⢤⣾⠀⠀⠸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢸⣿⠳⣿⣷⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⡄⠀⠀⢳⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⣿⡄⠀⠙⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⣿⡦⠀⠀⠻⠿⣦⣀⡀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢸⣷⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⢿⡏⠀⠜⡴⠁⠀⠀⠀⡀⠀⠀⠉⠉⠲⢦⡀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢠⣿⣷⡾⢿⣿⣿⣿⣿⣿⠿⢿⣿⣿⣿⣿⣿⡿⠛⠉⠁⠀⠀⣸⠀⠀⠀⢧⠀⠀⠀⠀⠹⠒⢤⣀⠀⠀⠁⠈⢢⠀
+⠀⠀⠀⠀⠀⠀⠀⠈⣿⣟⠀⠀⠈⠻⣿⠏⢨⠔⢦⠈⢻⣿⡼⠋⢀⣤⣶⣶⣿⣿⣿⣄⢠⣀⡜⠆⠀⢀⡠⠴⠒⠂⠈⢻⢦⡀⠀⠈⡇
+⠀⠀⢀⣶⣿⣷⠀⠀⠘⣿⡄⠀⠐⣶⢬⣇⠉⢣⡸⠀⣰⣿⣁⣴⣿⣿⣿⣿⣿⣿⣟⢿⣽⡛⣧⠔⠒⡏⣀⠀⠀⣀⣀⣾⠀⠑⠢⠤⠃
+⠀⣴⡟⣾⡟⣿⡇⣀⣼⣿⣿⣦⡀⠀⠙⠻⡆⠀⠇⢰⠟⠻⣿⣿⣿⣿⣿⡿⣿⣿⣿⣷⡿⠟⣇⠀⠀⢙⣰⣺⣽⣿⣿⣿⠀⠀⠀⠀⠀
+⢸⡿⢸⡿⣰⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⡴⠃⠀⠀⢸⡀⠀⢹⣿⣿⣿⣿⣿⢹⣿⣿⣯⣀⣀⣀⣭⣏⠁⠀⠀⠈⠻⣿⣿⠀⠀⠀⠀⠀
+⣿⡇⢸⡗⢸⠛⣿⡍⠉⠙⠛⠻⢭⣻⣿⣧⠀⠀⢀⣴⠷⣄⡀⠻⣿⣿⣿⣿⣿⣿⣿⣽⣿⣿⣿⣿⡻⡆⠀⠀⠀⠀⠙⠇⠀⠀⠀⠀⠀
+⣿⡇⢸⣷⣽⠶⠛⢷⡀⣠⠤⢤⣾⣿⣿⣽⣞⣿⣭⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡙⢿⣿⠉⠛⢿⣿⣷⡇⠀⢀⣀⠀⠀⠀⠀⠀⠀⠀⠀
+⣿⣇⣼⢿⠁⠀⠀⢠⡷⡇⢠⣶⡽⣿⠋⠉⢻⠿⠛⠋⠉⠉⢹⠉⢻⢻⣿⣿⣿⣿⣿⣷⡶⢏⡠⠿⣿⣷⡞⠛⠙⢳⣦⡀⠀⠀⠀⠀⠀
+⣿⡏⢠⡋⣆⠀⠀⡞⠀⠇⠈⢿⣿⣏⠀⠀⠸⡀⠀⠀⠀⢀⡞⠀⢸⢸⣿⡏⠛⠛⠛⠉⣠⠋⣠⠀⠸⠧⢻⡝⢷⡄⢿⣷⠀⠀⠀⠀⠀
+⢸⣧⠸⡹⡌⢆⣴⣿⡀⠀⠀⠈⠻⠿⣆⠀⠀⠳⣄⣰⣚⠉⠉⠉⠻⣾⣿⡻⣦⣀⣠⣴⠷⠟⣻⠀⠀⠀⢸⡇⢸⣧⢨⣿⠀⠀⠀⠀⠀
+⠀⢿⣇⠓⠃⣼⣇⡈⠻⣄⠀⠰⢦⣀⢀⣷⡄⠀⠀⠀⠈⠉⠓⡤⣄⡈⡿⣿⣷⣶⣶⣶⣾⣿⠟⢀⠆⠀⡾⢷⣾⡇⣼⡟⠀⠀⠀⠀⠀
+⠀⠈⢿⢷⣞⠛⣿⣿⣤⡍⠳⣤⣤⣤⡿⠗⠁⠀⠀⠀⠀⠀⠀⠙⠀⠹⡅⠀⠈⠉⠉⠉⠻⣤⠔⠚⠒⠊⠀⠀⠈⣿⡿⠃⠀⠀⠀⠀⠀
+⠀⠀⠈⢻⣽⣦⡈⠻⣿⣿⠞⠋⠉⠁⠀⠀⣀⠤⠖⠲⣤⣔⡊⣀⠀⠀⡷⠀⠀⠀⢀⣴⠞⠓⠲⠦⣤⡀⠀⠀⣠⡿⠁⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠙⢿⣿⣿⠟⠁⠀⠀⠀⣠⣴⠞⠁⠀⠀⠀⡏⠀⢹⠀⠙⣤⣃⣤⠶⠞⣫⣤⣟⣛⣷⣶⣿⢟⡦⣾⠟⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠈⣿⠀⠀⠀⣠⡾⠿⡏⠀⠀⠀⢠⠞⠀⠀⢸⠀⠀⣿⡏⠾⠿⣶⣿⣿⣿⠿⣛⣽⣾⡿⠚⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠻⣦⠴⠚⠀⠀⠀⠙⠦⠤⠲⡁⠀⠀⢀⡇⠀⣠⠏⠉⠛⠳⠶⢶⣶⡿⠿⠟⠊⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠚⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 <!-- 
