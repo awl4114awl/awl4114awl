@@ -17,6 +17,7 @@ Results-driven Tech Support Specialist with a proven track record in diagnosing 
   - ##### [Python Password Cracker](https://github.com/awl4114awl/Python-Password-Cracker)
   - ##### [Network Packet Sniffer](https://github.com/awl4114awl/Network-Packet-Sniffer)
   - ##### [IT Help Desk Ticketing System](https://github.com/awl4114awl/IT-Help-Desk-Ticketing-System)
+  - ##### [Employee Time Clock](https://github.com/awl4114awl/Employee-Time-Clock)
 
 <br />
 
