@@ -15,7 +15,7 @@ Results-driven Tech Support Specialist with a proven track record in diagnosing 
 - <b>Coding Projects</b> 
   - ##### [Threaded Port Scanner](https://github.com/awl4114awl/Threaded-Port-Scanner)
   - ##### [Python Password Cracker](https://github.com/awl4114awl/Python-Password-Cracker)
-  - ##### [Network Packet Sniffer](https://github.com/awl4114awl/Network-Packet-Sniffer)
+  - ##### [Vulnerability Scanner](https://github.com/awl4114awl/Vulnerability-Scanner)
   - ##### [IT Help Desk Ticketing System](https://github.com/awl4114awl/IT-Help-Desk-Ticketing-System)
   - ##### [Employee Time Clock](https://github.com/awl4114awl/Employee-Time-Clock)
 
