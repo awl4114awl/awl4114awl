@@ -9,7 +9,7 @@ Results-driven Tech Support Specialist with a proven track record in diagnosing 
   </a>
 </p>
 
-<h2>Software Development Projects:</h2> 
+<h2>Software Development Projects</h2> 
 
   - ##### [Threaded Port Scanner](https://github.com/awl4114awl/Threaded-Port-Scanner)
   - ##### [Caesar Cipher Tool](https://github.com/awl4114awl/Caesar-Cipher-Tool)
@@ -18,6 +18,10 @@ Results-driven Tech Support Specialist with a proven track record in diagnosing 
   - ##### [IT Help Desk Ticketing System](https://github.com/awl4114awl/IT-Help-Desk-Ticketing-System)
   - ##### [Employee Time Clock](https://github.com/awl4114awl/Employee-Time-Clock)
   - ##### [Active Directory Bulk User Creation](https://github.com/awl4114awl/AD_PS)
+
+<h2>GitHub Stats</h2>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awl4114awl&layout=compact)
  
 <h2>Tools</h2>
 
