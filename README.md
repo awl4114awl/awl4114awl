@@ -2,7 +2,7 @@
 Results-driven Tech Support Specialist with a proven track record in diagnosing and resolving diverse technical issues. Currently pursuing my Bachelor's degree in Cybersecurity.
 <br />
 <br />
-<p align="left"> <img src="https://tryhackme-badges.s3.amazonaws.com/awl4114awl.png" alt="TryHackMe"> </p>
+<p align="left"> <img src="https://tryhackme-badges.s3.amazonaws.com/awl4114awl.png" alt="Your Image Badge"/> </p>
 <p align="left">
   <a href="https://discord.com/users/642624429225934858" target="_blank">
     <img src="https://discord.c99.nl/widget/theme-1/642624429225934858.png"/>
