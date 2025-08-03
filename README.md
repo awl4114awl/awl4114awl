@@ -2,6 +2,11 @@
 Results-driven Tech Support Specialist with a proven track record in diagnosing and resolving diverse technical issues. Currently pursuing my Bachelor's degree in Cybersecurity.
 <br />
 
+<h2>Vulnerability Management Projects</h2>
+
+  - ##### [Vulnerability Management Program Implementation](https://github.com/awl4114awl/vulnerability-management-program)
+  - ##### [Programmatic Vulnerability Remediations(PowerShell and BASH)](https://github.com/awl4114awl/vulnerability-management-program)
+
 <h2>CTF Projects</h2> 
 
   - ##### [OverTheWire Bandit Game](https://github.com/awl4114awl/bandit-wargame-solutions)
