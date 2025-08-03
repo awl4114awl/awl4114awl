@@ -12,8 +12,6 @@ Results-driven Tech Support Specialist with a proven track record in diagnosing 
   - ##### [Caesar Cipher Tool](https://github.com/awl4114awl/Caesar-Cipher-Tool)
   - ##### [Active Network and Fingerprint Scanner](https://github.com/awl4114awl/Active-Network-and-Fingerprint-Scanner)
   - ##### [Packet Sniffer](https://github.com/awl4114awl/Packet-Sniffer)
-  - ##### [IT Help Desk Ticketing System](https://github.com/awl4114awl/IT-Help-Desk-Ticketing-System)
-  - ##### [Employee Time Clock](https://github.com/awl4114awl/Employee-Time-Clock)
   - ##### [Active Directory Bulk User Creation](https://github.com/awl4114awl/AD_PS)
 
 <h2>GitHub Stats</h2>
