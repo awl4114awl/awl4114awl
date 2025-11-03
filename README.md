@@ -2,7 +2,7 @@
 Results-driven Technical Support / Help Desk Support Specialist with a proven track record in diagnosing and resolving diverse technical issues. Currently pursuing my Bachelor's degree in Cybersecurity.
 <br />
 
-<h2>Vulnerability Management & Threat Hhunting Projects</h2>
+<h2>Vulnerability Management & Threat Hunting Projects</h2>
 
   - ##### [Port Scan Investigation with Microsoft Defender for Endpoint](https://github.com/awl4114awl/port-scan-investigation-mde)
   - ##### [Programmatic Vulnerability Remediation (Windows 11)](https://github.com/awl4114awl/programmatic-vulnerability-remediation-win11)
