@@ -25,7 +25,6 @@ Results-driven Technical Support / Help Desk Support Specialist with a proven tr
  
 <h2>Tools</h2>
 
-| Python3 | Java | JavaScript | MySQL | SQLite | Metasploit | Wireshark | Burpsuite | Netcat | Nmap |
-|---------|------|------------|-------|--------|------------|-----------|-----------|--------|------|
-| <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" alt="Java" width="75" height="75"/> | <p align="center"><img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/> | <p align="center"><img src="https://asset.brandfetch.io/idFlREP4Jj/idsR5UInMm.png?updated=1712244345166" alt="msf" width="55" height="55" /> | <p align="center"><img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" alt="wireshark" width="55" height="55" /> | <p align="center"><img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="burp" width="55" height="55" /> | <p align="center"><img src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" alt="netcat" width="55" height="55" /> | <p align="center"><img src="https://nmap.org/images/sitelogo-nmap.svg" alt="nmap" width="55" height="55" /> |
-
+| Python3 | PowerShell |
+|---------|------|
+| <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="PowerShell" alt="PowerShell" width="75" height="75"/> | 
