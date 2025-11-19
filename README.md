@@ -19,7 +19,6 @@ Results-driven Technical Support / Help Desk Support Specialist with a proven tr
   - ##### [Caesar Cipher Tool](https://github.com/awl4114awl/Caesar-Cipher-Tool)
   - ##### [Active Network and Fingerprint Scanner](https://github.com/awl4114awl/Active-Network-and-Fingerprint-Scanner)
   - ##### [Wireshark Clone](https://github.com/awl4114awl/Wireshark-Packet-Sniffer)
-  - ##### [Active Directory Bulk User Creation](https://github.com/awl4114awl/AD_PS)
 
 <h2>GitHub Stats</h2>
 
