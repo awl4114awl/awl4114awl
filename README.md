@@ -1,4 +1,4 @@
-<h1><a href="https://www.linkedin.com/in/awl4114awl/">Jordan Calvert</a>'s </a>IT and Cybersecurity Project Portfolio🌐</h1>
+<h1><a href="https://www.linkedin.com/in/awl4114awl/">Jordan Calvert</a>'s </a>IT and Cybersecurity Project Portfolio 🌐</h1>
 Results-driven Technical Support / Help Desk Support Specialist with a proven track record in diagnosing and resolving diverse technical issues. Currently pursuing my Bachelor's degree in Cybersecurity.
 <br />
 
