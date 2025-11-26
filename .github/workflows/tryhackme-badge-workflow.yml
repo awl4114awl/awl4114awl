@@ -1,21 +1,31 @@
-name: TryHackMe Update Badge
+name: TryHackMe Badge Auto-Update
 
 on:
   schedule:
-    - cron: '0 0 * * *'   # runs every day at midnight UTC
+    - cron: '0 0 * * *'  # every day at midnight UTC
   workflow_dispatch:
 
 jobs:
-  tryhackme-badge-update:
-    name: Update this repo's TryHackMe badge with the latest tryhackme image badge
+  update-badge:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout repo
+        uses: actions/checkout@v3
         with:
           persist-credentials: true
           fetch-depth: 0
 
-      - uses: p4p1/tryhackme-badge-workflow@main
+      - name: Download TryHackMe Badge
+        uses: p4p1/tryhackme-badge-workflow@main
         with:
           username: "awl4114awl"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push badge
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add assets/thm_propic.png
+          git commit -m "Auto-update TryHackMe badge" || echo "No changes"
+          git push
