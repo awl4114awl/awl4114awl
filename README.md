@@ -2,6 +2,8 @@
 Results-driven Technical Support / Help Desk Support Specialist with a proven track record in diagnosing and resolving diverse technical issues. Currently pursuing my Bachelor's degree in Cybersecurity.
 <br />
 
+![TryHackMe Badge](assets/thm_propic.png)
+
 <h2>Vulnerability Management & Threat Hunting Projects</h2>
 
   - ##### [Vulnerability Management Program](https://github.com/awl4114awl/vulnerability-management-program)
