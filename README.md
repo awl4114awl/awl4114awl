@@ -40,8 +40,7 @@ Currently pursuing my Bachelor’s degree in Cybersecurity.
 
 ## GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=awl4114awl&langs_count=4&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E&hide=JavaScript,CSS,Java,HTML,c%2B%2B,Ren%27Py)
-
+![Top Languages](https://github-readme-stats-seven-delta-23.vercel.app/api/top-langs/?username=awl4114awl&layout=compact&langs_count=4&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E&hide=JavaScript,CSS,Java,HTML,C++,Ren'Py)
 ## Tools
 
 | Python | PowerShell |
