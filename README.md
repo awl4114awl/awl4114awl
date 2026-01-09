@@ -9,13 +9,20 @@ Currently pursuing my Bachelor’s degree in Cybersecurity.
 
 ---
 
-## Vulnerability Management & Threat Hunting Projects
+## Vulnerability Management Projects
 
 - **[Vulnerability Management Program](https://github.com/awl4114awl/vulnerability-management-program)**
-- **[Port Scan Investigation with Microsoft Defender for Endpoint](https://github.com/awl4114awl/port-scan-investigation-mde)**
-- **[Suspected Data Exfiltration with Microsoft Defender for Endpoint](https://github.com/awl4114awl/suspected-data-exfiltration-mde)**
 - **[Programmatic Vulnerability Remediation (Windows 11)](https://github.com/awl4114awl/programmatic-vulnerability-remediation-win11)**
+
+## Incident Response Projects
+
+- **[Port Scan Investigation with Microsoft Defender for Endpoint](https://github.com/awl4114awl/port-scan-investigation-mde)**
 - **[Virtual Machine Brute Forcing](https://github.com/awl4114awl/virtual-machine-brute-forcing)**
+
+## Threat Hunting Projects
+
+- **[Threat Hunting Scenario with Tor](https://github.com/awl4114awl/threat-hunting-scenario-tor)**
+- **[Suspected Data Exfiltration with Microsoft Defender for Endpoint](https://github.com/awl4114awl/suspected-data-exfiltration-mde)**
 
 ### STIG Automation
 - **[STIG Automation Labs](https://github.com/awl4114awl/lognpacific-public/tree/main/cyber-range/STIG_AUTOMATION)**
