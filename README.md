@@ -24,16 +24,12 @@ Currently pursuing my Bachelor’s degree in Cybersecurity.
 - **[Threat Hunting Scenario with Tor](https://github.com/awl4114awl/threat-hunting-scenario-tor)**
 - **[Suspected Data Exfiltration with Microsoft Defender for Endpoint](https://github.com/awl4114awl/suspected-data-exfiltration-mde)**
 
-### STIG Automation
+## STIG Automation
 - **[STIG Automation Labs](https://github.com/awl4114awl/lognpacific-public/tree/main/cyber-range/STIG_AUTOMATION)**
-
----
 
 ## CTF Projects
 
 - **[OverTheWire Bandit Game](https://github.com/awl4114awl/bandit-wargame-solutions)**
-
----
 
 ## Software Development Projects
 
@@ -42,13 +38,9 @@ Currently pursuing my Bachelor’s degree in Cybersecurity.
 - **[Active Network & Fingerprint Scanner](https://github.com/awl4114awl/Active-Network-and-Fingerprint-Scanner)**
 - **[Wireshark Packet Sniffer (Clone)](https://github.com/awl4114awl/Wireshark-Packet-Sniffer)**
 
----
-
 ## GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=awl4114awl&langs_count=4&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E&hide=JavaScript,CSS,Java,HTML,c%2B%2B,Ren%27Py)
-
----
 
 ## Tools
 
