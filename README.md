@@ -9,17 +9,17 @@ Currently pursuing my Bachelor’s degree in Cybersecurity.
 
 ---
 
-## Vulnerability Management Projects
+## Vulnerability Management 
 
 - **[Vulnerability Management Program](https://github.com/awl4114awl/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediation (Windows 11)](https://github.com/awl4114awl/programmatic-vulnerability-remediation-win11)**
 
-## Incident Response Projects
+## Incident Response 
 
 - **[Port Scan Investigation with Microsoft Defender for Endpoint](https://github.com/awl4114awl/port-scan-investigation-mde)**
 - **[Virtual Machine Brute Forcing](https://github.com/awl4114awl/virtual-machine-brute-forcing)**
 
-## Threat Hunting Projects
+## Threat Hunting 
 
 - **[Threat Hunting Scenario with Tor](https://github.com/awl4114awl/threat-hunting-scenario-tor)**
 - **[Suspected Data Exfiltration with Microsoft Defender for Endpoint](https://github.com/awl4114awl/suspected-data-exfiltration-mde)**
@@ -27,11 +27,11 @@ Currently pursuing my Bachelor’s degree in Cybersecurity.
 ## STIG Automation
 - **[STIG Automation Labs](https://github.com/awl4114awl/lognpacific-public/tree/main/cyber-range/STIG_AUTOMATION)**
 
-## CTF Projects
+## CTF 
 
 - **[OverTheWire Bandit Game](https://github.com/awl4114awl/bandit-wargame-solutions)**
 
-## Software Development Projects
+## Software Development 
 
 - **[Threaded Port Scanner](https://github.com/awl4114awl/Threaded-Port-Scanner)**
 - **[Caesar Cipher Tool](https://github.com/awl4114awl/Caesar-Cipher-Tool)**
