@@ -7,8 +7,6 @@ Currently pursuing my Bachelor’s degree in Cybersecurity.
 
 ![TryHackMe Badge](assets/thm_propic.png)
 
----
-
 ## Vulnerability Management 
 
 - **[Vulnerability Management Program](https://github.com/awl4114awl/vulnerability-management-program)**
