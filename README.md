@@ -28,6 +28,7 @@ Currently pursuing my Bachelor’s degree in Cybersecurity.
 ## CTF 
 
 - **[OverTheWire Bandit Game](https://github.com/awl4114awl/bandit-wargame-solutions)**
+- **[Threat Hunt – Port of Entry](https://github.com/awl4114awl/lognpacific-public/tree/main/cyber-range/threat-hunting-scenarios/Threat%20Hunt%20%E2%80%93%20Port%20of%20Entry)**
 
 ## Software Development 
 
