@@ -40,8 +40,10 @@ Currently pursuing my Bachelor’s degree in Cybersecurity.
 ## GitHub Stats
 
 ![Top Languages](https://github-readme-stats-seven-delta-23.vercel.app/api/top-langs/?username=awl4114awl&layout=compact&langs_count=4&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E&hide=JavaScript,CSS,Java,HTML,C++,Ren'Py)
+
 ## Tools
 
-| Python | PowerShell |
-|------|-----------|
-| <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55"/></p> | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" width="75"/></p> |
+| Python | PowerShell | Shell |
+|--------|-----------|-------|
+| <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55"/></p> | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" width="75"/></p> | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="75"/></p> |
+
