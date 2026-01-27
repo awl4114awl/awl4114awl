@@ -9,33 +9,33 @@ Currently pursuing my Bachelor’s degree in Cybersecurity.
 
 ## Vulnerability Management 
 
-- **[Vulnerability Management Program](https://github.com/awl4114awl/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediation (Windows 11)](https://github.com/awl4114awl/programmatic-vulnerability-remediation-win11)**
+- [Vulnerability Management Program](https://github.com/awl4114awl/vulnerability-management-program)
+- [Programmatic Vulnerability Remediation (Windows 11)](https://github.com/awl4114awl/programmatic-vulnerability-remediation-win11)
 
 ## Incident Response 
 
-- **[Port Scan Investigation with Microsoft Defender for Endpoint](https://github.com/awl4114awl/port-scan-investigation-mde)**
-- **[Virtual Machine Brute Forcing](https://github.com/awl4114awl/virtual-machine-brute-forcing)**
+- [Port Scan Investigation with Microsoft Defender for Endpoint](https://github.com/awl4114awl/port-scan-investigation-mde)
+- [Virtual Machine Brute Forcing](https://github.com/awl4114awl/virtual-machine-brute-forcing)
 
 ## Threat Hunting 
 
-- **[Threat Hunting Scenario with Tor](https://github.com/awl4114awl/threat-hunting-scenario-tor)**
-- **[Suspected Data Exfiltration with Microsoft Defender for Endpoint](https://github.com/awl4114awl/suspected-data-exfiltration-mde)**
+- [Threat Hunting Scenario with Tor](https://github.com/awl4114awl/threat-hunting-scenario-tor)
+- [Suspected Data Exfiltration with Microsoft Defender for Endpoint](https://github.com/awl4114awl/suspected-data-exfiltration-mde)
 
 ## STIG Automation
-- **[STIG Automation Labs](https://github.com/awl4114awl/lognpacific-public/tree/main/cyber-range/STIG_AUTOMATION)**
+- [STIG Automation Labs](https://github.com/awl4114awl/lognpacific-public/tree/main/cyber-range/STIG_AUTOMATION)
 
 ## CTF 
 
-- **[OverTheWire Bandit Game](https://github.com/awl4114awl/bandit-wargame-solutions)**
-- **[Threat Hunt – Port of Entry](https://github.com/awl4114awl/lognpacific-public/tree/main/cyber-range/threat-hunting-scenarios/Threat%20Hunt%20%E2%80%93%20Port%20of%20Entry)**
+- [OverTheWire Bandit Game](https://github.com/awl4114awl/bandit-wargame-solutions)
+- [Threat Hunt – Port of Entry](https://github.com/awl4114awl/lognpacific-public/tree/main/cyber-range/threat-hunting-scenarios/Threat%20Hunt%20%E2%80%93%20Port%20of%20Entry)
 
 ## Software Development 
 
-- **[Threaded Port Scanner](https://github.com/awl4114awl/Threaded-Port-Scanner)**
-- **[Caesar Cipher Tool](https://github.com/awl4114awl/Caesar-Cipher-Tool)**
-- **[Active Network & Fingerprint Scanner](https://github.com/awl4114awl/Active-Network-and-Fingerprint-Scanner)**
-- **[Wireshark Packet Sniffer (Clone)](https://github.com/awl4114awl/Wireshark-Packet-Sniffer)**
+- [Threaded Port Scanner](https://github.com/awl4114awl/Threaded-Port-Scanner)
+- [Caesar Cipher Tool](https://github.com/awl4114awl/Caesar-Cipher-Tool)
+- [Active Network & Fingerprint Scanner](https://github.com/awl4114awl/Active-Network-and-Fingerprint-Scanner)
+- [Wireshark Packet Sniffer (Clone)](https://github.com/awl4114awl/Wireshark-Packet-Sniffer)
 
 ## GitHub Stats
 
