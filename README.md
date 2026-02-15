@@ -21,6 +21,7 @@ Currently pursuing my Bachelor’s degree in Cybersecurity.
 
 - [Threat Hunting Scenario with Tor](https://github.com/awl4114awl/threat-hunting-scenario-tor)
 - [Suspected Data Exfiltration with Microsoft Defender for Endpoint](https://github.com/awl4114awl/suspected-data-exfiltration-mde)
+- [Linux RCE Detection using Microsoft Defender for Endpoint](https://github.com/awl4114awl/linux-rce-detection-mde)
 
 ## STIG Automation
 - [STIG Automation Labs](https://github.com/awl4114awl/lognpacific-public/tree/main/cyber-range/STIG_AUTOMATION)
