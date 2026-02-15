@@ -32,9 +32,6 @@ Currently pursuing my Bachelor’s degree in Cybersecurity.
 
 ## Software Development 
 
-- [Threaded Port Scanner](https://github.com/awl4114awl/Threaded-Port-Scanner)
-- [Caesar Cipher Tool](https://github.com/awl4114awl/Caesar-Cipher-Tool)
-- [Active Network & Fingerprint Scanner](https://github.com/awl4114awl/Active-Network-and-Fingerprint-Scanner)
 - [Wireshark Packet Sniffer (Clone)](https://github.com/awl4114awl/Wireshark-Packet-Sniffer)
 
 ## GitHub Stats
