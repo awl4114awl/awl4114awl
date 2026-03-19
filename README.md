@@ -16,6 +16,7 @@ Currently pursuing my Bachelor’s degree in Cybersecurity.
 
 - [Port Scan Investigation with Microsoft Defender for Endpoint](https://github.com/awl4114awl/port-scan-investigation-mde)
 - [Virtual Machine Brute Forcing](https://github.com/awl4114awl/virtual-machine-brute-forcing)
+- [Potential Impossible Travel](https://github.com/awl4114awl/potential-impossible-travel)
 
 ## Threat Hunting 
 
